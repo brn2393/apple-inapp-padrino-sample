@@ -1,3 +1,3 @@
-##_Master_ branch contains full source code.
+## _Master_ branch contains full source code.
 
-##Whereas, _basic-skeleton_ branch contains only code to get you started.
+## Whereas, _basic-skeleton_ branch contains only code to get you started.
